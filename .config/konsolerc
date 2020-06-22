@@ -1,0 +1,20 @@
+[Desktop Entry]
+DefaultProfile=Profile 2.profile
+
+[Favorite Profiles]
+Favorites=
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+
+[MainWindow]
+Height 480=448
+Height 768=739
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABUoAAALgAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1366=674
+Width 640=628
+
+[TabBar]
+TabBarVisibility=AlwaysHideTabBar
